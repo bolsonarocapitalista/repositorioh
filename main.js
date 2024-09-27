@@ -1,5 +1,5 @@
-function soma(1,2)
+function soma(num1,num2)
 {
-    return 1+2
+    return num1+num2
 }
 
