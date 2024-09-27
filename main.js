@@ -8,5 +8,5 @@ let média=function(num1,num2,num3){
 console.log(média(1,2,3));
 
 
-let nome= parseInt(prompt(1+2));
-document.write(1+2);
+let nome= parseInt(prompt(8+8+0/3));
+document.write(8+8+0/3);
