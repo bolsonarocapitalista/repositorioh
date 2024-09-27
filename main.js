@@ -1,5 +1,5 @@
 function areaQuadrado (lado){
-    return lado**2
+    return lado**2;
 }
 console.log(areaQuadrado(2,2));
 let média=function(num1,num2,num3){
